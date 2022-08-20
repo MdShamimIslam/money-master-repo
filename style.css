@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(165, 191, 240);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main-container {
+    background-color: darkgray;
+    width: 35%;
+    height: 650px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 30px auto;
+
+}
+
+.txt {
+    font-size: 20px;
+
+}
+
+span {
+    font-size: 17px;
+}
+
+input {
+    padding: 7px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    width: 220px;
+
+}
+
+button {
+    padding: 13px 50px;
+    background-color: dodgerblue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
